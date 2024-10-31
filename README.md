@@ -7,9 +7,9 @@ My name is **Vamsi Krishna**. I am a motivated and detail-oriented individual wi
 - **Background**: Programming and Software Development
 - **Interests**: Cybersecurity, Data Protection, Threat Analysis
 - **Skills**:
-  - Programming Languages: [List languages, e.g., Python, Java, JavaScript]
-  - Tools and Technologies: [List tools, e.g., Git, Linux, Wireshark]
-  - Analytical Skills: Problem-solving, Security Assessment, Risk Management
+  - Programming Languages: java, sql, python
+  - Tools and Technologies: Git, Linux, Wireshark, Splunk
+  - Analytical Skills: Problem-solving, Security Assessment, Risk Management, data analysis
 
 ## Projects
 
@@ -24,9 +24,9 @@ My name is **Vamsi Krishna**. I am a motivated and detail-oriented individual wi
 - **GitHub Link**: [Link to the project repository]
 
 ## Certifications
-- **Google Cybersecurity Certificate**: [Include any details or links to the course]
+- **Google Cybersecurity Certificate**: https://www.coursera.org/professional-certificates/google-cybersecurity
 
 ## Contact Me
 Feel free to reach out to me via:
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile Link]
+- **Email**: gvk438@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/vamsikrishnagolla/
