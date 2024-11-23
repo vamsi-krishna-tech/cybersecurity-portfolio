@@ -5,7 +5,7 @@ My name is **Vamsi Krishna**. I am a motivated and detail-oriented individual wi
 ## About Me
 
 - **Background**: Programming and Software Development
-- **Interests**: Cybersecurity, Data Protection, Threat Analysis
+- **Interests**: Cybersecurity, Data Protection, Threat Analysis, Software Development, DevOps
 - **Skills**:
   - Programming Languages: java, sql, python
   - Tools and Technologies: Git, Linux, Wireshark, Splunk
